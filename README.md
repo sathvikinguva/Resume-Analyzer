@@ -2,6 +2,10 @@
 
 An intelligent resume analysis tool that leverages OpenAI's GPT to provide comprehensive feedback on resumes, identify skill gaps, and suggest improvements.
 
+## Live Demo
+
+Check out the live application: [AI Resume Anaylzer](https://ai-resume-analyzer-murex-mu.vercel.app/)
+
 ## Features
 
 - Upload resumes in PDF or DOCX format
